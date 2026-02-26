@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/p02_hormiga_langton_especifica.dir/src/main.cc.o CMakeFiles/p02_hormiga_langton_especifica.dir/src/Ant.cc.o CMakeFiles/p02_hormiga_langton_especifica.dir/src/Simulation.cc.o CMakeFiles/p02_hormiga_langton_especifica.dir/src/Tape.cc.o CMakeFiles/p02_hormiga_langton_especifica.dir/src/Ant_X.cc.o -o p02_hormiga_langton_especifica 

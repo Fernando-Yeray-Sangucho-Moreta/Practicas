@@ -1,0 +1,3 @@
+/home/usuario/IG_INF_2/AyEDA/PR2/PR2_ORIGINAL/build/CMakeFiles/p02_hormiga_langton_especifica.dir
+/home/usuario/IG_INF_2/AyEDA/PR2/PR2_ORIGINAL/build/CMakeFiles/edit_cache.dir
+/home/usuario/IG_INF_2/AyEDA/PR2/PR2_ORIGINAL/build/CMakeFiles/rebuild_cache.dir
