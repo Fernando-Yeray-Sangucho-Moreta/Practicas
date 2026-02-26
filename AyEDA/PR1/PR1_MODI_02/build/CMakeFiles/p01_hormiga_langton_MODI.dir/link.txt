@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/p01_hormiga_langton_MODI.dir/src/main.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Ant.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Simulation.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Tape.cc.o -o p01_hormiga_langton_MODI 

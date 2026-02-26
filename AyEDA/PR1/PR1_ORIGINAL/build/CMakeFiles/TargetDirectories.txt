@@ -1,0 +1,3 @@
+/home/usuario/AyEDA/PR1/PR1_ORIGINAL/build/CMakeFiles/p01_hormiga_langton.dir
+/home/usuario/AyEDA/PR1/PR1_ORIGINAL/build/CMakeFiles/edit_cache.dir
+/home/usuario/AyEDA/PR1/PR1_ORIGINAL/build/CMakeFiles/rebuild_cache.dir

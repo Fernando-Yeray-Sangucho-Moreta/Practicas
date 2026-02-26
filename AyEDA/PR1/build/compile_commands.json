@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/usuario/AyEDA/PR1/build",
+  "command": "/usr/bin/g++  -I/home/usuario/AyEDA/PR1/PR1_MODI_01/src -g -O0 -Wall -Wextra -Wpedantic -Weffc++ -std=gnu++17 -Wall -Wextra -Wpedantic -Weffc++ -o CMakeFiles/p01_hormiga_langton_MODI.dir/src/main.cc.o -c /home/usuario/AyEDA/PR1/PR1_MODI_01/src/main.cc",
+  "file": "/home/usuario/AyEDA/PR1/PR1_MODI_01/src/main.cc",
+  "output": "CMakeFiles/p01_hormiga_langton_MODI.dir/src/main.cc.o"
+},
+{
+  "directory": "/home/usuario/AyEDA/PR1/build",
+  "command": "/usr/bin/g++  -I/home/usuario/AyEDA/PR1/PR1_MODI_01/src -g -O0 -Wall -Wextra -Wpedantic -Weffc++ -std=gnu++17 -Wall -Wextra -Wpedantic -Weffc++ -o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Ant.cc.o -c /home/usuario/AyEDA/PR1/PR1_MODI_01/src/Ant.cc",
+  "file": "/home/usuario/AyEDA/PR1/PR1_MODI_01/src/Ant.cc",
+  "output": "CMakeFiles/p01_hormiga_langton_MODI.dir/src/Ant.cc.o"
+},
+{
+  "directory": "/home/usuario/AyEDA/PR1/build",
+  "command": "/usr/bin/g++  -I/home/usuario/AyEDA/PR1/PR1_MODI_01/src -g -O0 -Wall -Wextra -Wpedantic -Weffc++ -std=gnu++17 -Wall -Wextra -Wpedantic -Weffc++ -o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Simulation.cc.o -c /home/usuario/AyEDA/PR1/PR1_MODI_01/src/Simulation.cc",
+  "file": "/home/usuario/AyEDA/PR1/PR1_MODI_01/src/Simulation.cc",
+  "output": "CMakeFiles/p01_hormiga_langton_MODI.dir/src/Simulation.cc.o"
+},
+{
+  "directory": "/home/usuario/AyEDA/PR1/build",
+  "command": "/usr/bin/g++  -I/home/usuario/AyEDA/PR1/PR1_MODI_01/src -g -O0 -Wall -Wextra -Wpedantic -Weffc++ -std=gnu++17 -Wall -Wextra -Wpedantic -Weffc++ -o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Tape.cc.o -c /home/usuario/AyEDA/PR1/PR1_MODI_01/src/Tape.cc",
+  "file": "/home/usuario/AyEDA/PR1/PR1_MODI_01/src/Tape.cc",
+  "output": "CMakeFiles/p01_hormiga_langton_MODI.dir/src/Tape.cc.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -O0 -Wall -Wextra -Wpedantic -Weffc++ CMakeFiles/p01_hormiga_langton_MODI.dir/src/main.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Ant.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Simulation.cc.o CMakeFiles/p01_hormiga_langton_MODI.dir/src/Tape.cc.o -o /home/usuario/AyEDA/PR1/PR1_MODI_01/build/p01_hormiga_langton_MODI 
